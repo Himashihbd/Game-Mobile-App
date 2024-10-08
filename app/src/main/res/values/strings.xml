@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Save the bunny</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="points">Your Points:</string>
+    <string name="highest">Highest</string>
+    <string name="restart">Restart</string>
+</resources>
